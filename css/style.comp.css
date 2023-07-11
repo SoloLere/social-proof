@@ -83,7 +83,8 @@ img {
     flex-grow: 1; }
   .rating__text {
     display: flex;
-    flex-direction: column; }
+    flex-direction: column;
+    color: #502050; }
   .rating__header {
     width: 70%;
     align-self: center; }
